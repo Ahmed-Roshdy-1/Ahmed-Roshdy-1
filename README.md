@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Ahmed-Roshdy-1/github-stats">
+
+![](https://github.com/Ahmed-Roshdy-1/github-stats/blob/main/generated/overview.svg)
+![](https://github.com/Ahmed-Roshdy-1/github-stats/blob/main/generated/languages.svg)
+
+</a>
+
