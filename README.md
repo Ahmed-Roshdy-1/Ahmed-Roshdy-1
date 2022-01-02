@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 </p>
 <p>Technology </p>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=cpp)&nbsp;
-![C](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=java)&nbsp;
-![SCSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=SCSS&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
