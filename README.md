@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 ## My Stats
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&include_all_commits=true&theme=monokai" alt="ah-nemati's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&include_all_commits=true&theme=monokai" alt="ah-nemati's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Roshdy-1&layout=compact&theme=monokai&langs_count=12"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Roshdy-1&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Roshdy-1&layout=compact&theme=monokai&langs_count=12"/>
+ 
 </p>
