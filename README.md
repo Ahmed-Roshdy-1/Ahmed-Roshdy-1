@@ -15,10 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Ahmed-Roshdy-1/github-stats">
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif">
+</img>
+</p>
+<p>Technology </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=cpp)&nbsp;
+![C](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=c)&nbsp;
+![Java](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=java)&nbsp;
+![SCSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=SCSS&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Next JS](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![](https://github.com/Ahmed-Roshdy-1/github-stats/blob/main/generated/overview.svg)
-![](https://github.com/Ahmed-Roshdy-1/github-stats/blob/main/generated/languages.svg)
-
-</a>
-
+## My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&include_all_commits=true&theme=monokai" alt="ah-nemati's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Roshdy-1&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Roshdy-1&layout=compact&theme=monokai&langs_count=12"/>
+</p>
