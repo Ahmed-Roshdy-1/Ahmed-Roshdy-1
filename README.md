@@ -48,7 +48,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+        <span>C++</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c++.svg">
       </td>
       <td width="25%" align="center">
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
       
       
      
-      </td>
+      
     </tr>
   </tbody>
 </table>
