@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 ## Find me around the web 🌎 
-- Practising on <a href="https://codeforces.com/profile/Ahmed-Roshdy">Codeforces</a> 
-- Practising on <a href="https://leetcode.com/Ahmed-Roshdy-1/">LeetcoCode</a> 
-- Sharing updates on <a href="https://www.linkedin.com/in/ahmed-roshdy-5bb561194/">LinkedIn</a> 
+- Practising on <a href="https://codeforces.com/profile/Ahmed-Roshdy" target="_blank">Codeforces</a> 
+- Practising on <a href="https://leetcode.com/Ahmed-Roshdy-1/" target="_blank">LeetcoCode</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/ahmed-roshdy-5bb561194/" target="_blank">LinkedIn</a> 
 
 
 ## My Stats
