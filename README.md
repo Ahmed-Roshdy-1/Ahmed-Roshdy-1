@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - Sharing updates on <a href="https://www.linkedin.com/in/ahmed-roshdy-5bb561194/">LinkedIn</a> 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+## <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed-Roshdy-1_title=Ahmed-Roshdy-1's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
