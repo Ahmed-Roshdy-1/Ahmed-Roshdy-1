@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎 
 - Practising on <a href="https://codeforces.com/profile/Ahmed-Roshdy">Codeforces</a> 
-- - Practising on <a href="https://leetcode.com/Ahmed-Roshdy-1/">LeetcoCode</a> 
+- Practising on <a href="https://leetcode.com/Ahmed-Roshdy-1/">LeetcoCode</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/ahmed-roshdy-5bb561194/">LinkedIn</a> 
 
 
