@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>&nbsp; Languages & Tools ...
+# Languages & Tools ...
 <p align="left">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>&nbsp; &nbsp; 
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   
   
   <hr>
+  
+## Version Control
 
 ## Find me around the web 🌎 
 - Practising on <a href="https://codeforces.com/profile/Ahmed-Roshdy" >Codeforces</a> 
