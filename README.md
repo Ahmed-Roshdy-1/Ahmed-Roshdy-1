@@ -18,14 +18,29 @@ Here are some ideas to get you started:
 # Languages & Tools ...
 
 <p align="left">
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>&nbsp; &nbsp; 
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>&nbsp; &nbsp;
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>&nbsp; &nbsp;
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>&nbsp; &nbsp;
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>&nbsp; &nbsp;
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/js.png"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/vue.png"> </code>&nbsp; &nbsp; 
+   <code> <img height="50" src="Tech Icons/Nuxt.js.png"> </code>&nbsp; &nbsp; 
+   <code> <img height="50" src="Tech Icons/node.png"> </code>&nbsp; &nbsp; 
+   <code> <img height="50" src="Tech Icons/TS.png"> </code>&nbsp; &nbsp;
+   
+   <br/>
+   <code> <img height="50" src="Tech Icons/HTML.png"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/CSS.png"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/Tailwind CSS.png"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/sass-original.svg"> </code>&nbsp; &nbsp;
+   
+   <br/>
+   <code> <img height="50" src="Tech Icons/c.png"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/C++.png"> </code>&nbsp; &nbsp;
+
+   <br/>
+   <code> <img height="50" src="Tech Icons/MySql.png"> </code>&nbsp; &nbsp;
+
+   <br/>
+   <code> <img height="50" src="Tech Icons/Jira.png"> </code>&nbsp; &nbsp;
+   <code> <img height="50" src="Tech Icons/Visual Studio Code.png"> </code>&nbsp; &nbsp;
+
   </b>
 
   <hr>
