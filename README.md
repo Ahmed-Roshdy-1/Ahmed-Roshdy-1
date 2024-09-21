@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 # Languages & Tools ...
+
 <p align="left">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>&nbsp; &nbsp; 
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,27 +27,26 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>&nbsp; &nbsp;
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>&nbsp; &nbsp;
   </b>
-  
-<!--   <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/php-web-programming-language-line-icon-php-web-programming-language-line-icon-linear-style-sign-mobile-concept-web-design-177562144.jpg?raw=true"> </code> -->
-   
-  
-  
+
   <hr>
   
 ## Version Control
+ <code> <img height="50" src="Tech Icons/Git.png"> </code>&nbsp; &nbsp;
+ <code> <img height="50" src="Tech Icons/GitHub.png"> </code>&nbsp; &nbsp;
+ <code> <img height="50" src="Tech Icons/GitLab.png"> </code>&nbsp; &nbsp;
 
-## Find me around the web 🌎 
-- Practising on <a href="https://codeforces.com/profile/Ahmed-Roshdy" >Codeforces</a> 
-- Practising on <a href="https://leetcode.com/Ahmed-Roshdy-1/" >LeetCode</a> 
-- Sharing updates on <a href="https://www.linkedin.com/in/ahmed-roshdy-5bb561194/">LinkedIn</a> 
+ <hr>
 
+## Find me around the web 🌎
 
-
-
+- Practising on <a href="https://codeforces.com/profile/Ahmed-Roshdy" >Codeforces</a>
+- Practising on <a href="https://leetcode.com/Ahmed-Roshdy-1/" >LeetCode</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/ahmed-roshdy-5bb561194/">LinkedIn</a>
 
 <br/>
 
 ## My Stats
+
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
@@ -62,8 +60,6 @@ Here are some ideas to get you started:
    <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en" alt="Ahmed-Roshdy-1" /></p></a>
     
 <!--     <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en" alt="Ahmed-Roshdy-1" /></p> -->
-
-
 
   </p>
 </p>
