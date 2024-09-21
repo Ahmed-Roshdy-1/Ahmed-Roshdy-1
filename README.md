@@ -25,21 +25,22 @@ Here are some ideas to get you started:
    <code> <img height="50" src="Tech Icons/TS.png"> </code>&nbsp; &nbsp;
    
    <br/>
+     <br/>  <br/><br/>  <br/>
    <code> <img height="50" src="Tech Icons/HTML.png"> </code>&nbsp; &nbsp;
    <code> <img height="50" src="Tech Icons/CSS.png"> </code>&nbsp; &nbsp;
    <code> <img height="50" src="Tech Icons/Tailwind CSS.png"> </code>&nbsp; &nbsp;
    <code> <img height="50" src="Tech Icons/sass-original.svg"> </code>&nbsp; &nbsp;
    
-   <br/>
+   <br/><br/>  <br/><br/>  <br/>
    <code> <img height="50" src="Tech Icons/c.png"> </code>&nbsp; &nbsp;
    <code> <img height="50" src="Tech Icons/C++.png"> </code>&nbsp; &nbsp;
 
-   <br/>
-   <code> <img height="50" src="Tech Icons/MySql.png"> </code>&nbsp; &nbsp;
+<br/><br/> <br/><br/> <br/>
+<code> <img height="50" src="Tech Icons/MySql.png"> </code>&nbsp; &nbsp;
 
-   <br/>
-   <code> <img height="50" src="Tech Icons/Jira.png"> </code>&nbsp; &nbsp;
-   <code> <img height="50" src="Tech Icons/Visual Studio Code.png"> </code>&nbsp; &nbsp;
+<br/><br/> <br/><br/> <br/>
+<code> <img height="50" src="Tech Icons/Jira.png"> </code>&nbsp; &nbsp;
+<code> <img height="50" src="Tech Icons/Visual Studio Code.png"> </code>&nbsp; &nbsp;
 
   </b>
 
