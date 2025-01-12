@@ -78,20 +78,18 @@ Here are some ideas to get you started:
   </p>
 </p>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div style="display: block;">
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-
-
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Roshdy-1&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <hr>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
