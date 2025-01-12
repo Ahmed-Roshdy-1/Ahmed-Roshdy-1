@@ -72,34 +72,13 @@ Here are some ideas to get you started:
 <p>
   <h3 align="center">Stats:</h3>
 <p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Ahmed-Roshdy-1" /></p></a>
-  <a align="center">
-   <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en" alt="Ahmed-Roshdy-1" /></p></a>
-    
-<!--     <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en" alt="Ahmed-Roshdy-1" /></p> -->
+    <a align="center">
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Ahmed-Roshdy-1" /></p></a>
 
   </p>
 </p>
 </div>
 <hr>
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Ahmed-Roshdy-1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-   <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Roshdy-1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ahmed-Roshdy-1" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  
-----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
 
