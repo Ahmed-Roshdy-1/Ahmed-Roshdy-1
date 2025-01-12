@@ -90,11 +90,11 @@ Here are some ideas to get you started:
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="sayedmoataz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sayedmoataz&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+	    <img alt="Ahmed-Roshdy-1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Roshdy-1&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </a>
    <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedmoataz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sayedmoataz" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Roshdy-1&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ahmed-Roshdy-1" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
   <summary><b>⚡ Recent GitHub Activity</b></summary>
 
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedmoataz&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Roshdy-1&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 <br>
