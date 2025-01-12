@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 <div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
-<p>
+<p align="center">
     <a align="center">
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Roshdy-1&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Ahmed-Roshdy-1" /></p></a>
 
   </p>
   <div style="display: block;" align="center">
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+   <br><br><br><br><br><br>
    
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sayedmoataz&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
